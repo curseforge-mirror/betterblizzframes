@@ -34,7 +34,7 @@ jobs:
       run: python main.py
       env:
         ADDON_NAME: betterblizzframes
-        ADDON_ID: 
+        ADDON_ID: 940950
         SCRAPER_API_KEY: ${{ env.SCRAPER_API_KEY }}
         CF_API_TOKEN: ${{ env.CF_API_TOKEN }}
 
